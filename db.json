@@ -1,0 +1,292 @@
+{
+  "menus": [
+    {
+      "id": 1,
+      "label": "Thống kê",
+      "path": "/admin",
+      "icon": "<svg className=\"bi\"><use xlink:href=\"#graph-up\" /></svg>"
+    },
+    {
+      "id": 2,
+      "label": "Sản phẩm",
+      "path": "/admin/products",
+      "icon": "<svg className=\"bi\"><use xlink:href=\"#cart\" /></svg>"
+    }
+  ],
+  "users": [
+    {
+      "email": "vinsomatem97@gmail.com",
+      "password": "$2a$10$Pi0I/VlCU4inq2W4AP/qROLEI5INRha8Rw9xxPv5uXhlpP16Y0zI.",
+      "image": "https://down-vn.img.susercontent.com/file/0982de1d517eed28495a9bbcaced5881_tn",
+      "phone": "11112222",
+      "id": 1
+    },
+    {
+      "email": "lhoanganh814@gmail.com",
+      "password": "$2a$10$SI53pOAaycbPOiqWZgUNY.yW6Hr49cg2kUQOxJUUt4MJjJlEeA9vK",
+      "image": "https://down-vn.img.susercontent.com/file/0982de1d517eed28495a9bbcaced5881_tn",
+      "phone": "0335353353",
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Sữa Tắm"
+    },
+    {
+      "id": 2,
+      "name": "Bàn ghế"
+    },
+    {
+      "id": 3,
+      "name": "Máy hút bụi"
+    },
+    {
+      "name": "Black pink",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "name": "Combo Sữa Dưỡng Thể, Sữa Tắm Dưỡng Trắng Niacinamide 500ml Hương Nước Hoa Maycreate",
+      "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lhsmlgvdf24le4_tn",
+      "old_price": "₫145.000",
+      "price": "₫96.000",
+      "brand": "Nike",
+      "made_in": "Viet Nam",
+      "id": 1,
+      "categoryId": 1
+    },
+    {
+      "name": "⚡CHÍNH HÃNG⚡sữa tắm sữa dê làm trắng da 800ml dưỡng ẩm làm đều màu da lưu hương lâu mềm mịn",
+      "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lhkuz33i86md9f_tn",
+      "old_price": "₫48.333",
+      "price": "₫27.000",
+      "brand": "Nike",
+      "made_in": "Viet Nam",
+      "id": 2,
+      "categoryId": 1
+    },
+    {
+      "name": "Eucerin - Sữa Tắm cho Da Nhạy Cảm Eucerin pH5 WashLotion",
+      "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lhp2vgll7v0h5e_tn",
+      "old_price": "₫499.000",
+      "price": "₫409.000",
+      "brand": "Nike",
+      "made_in": "Viet Nam",
+      "id": 3,
+      "categoryId": 1
+    },
+    {
+      "name": "Sữa Tắm Hương Nước Hoa BATH & BODY WORKS 295ML siêu thơm",
+      "image": "https://down-vn.img.susercontent.com/file/ce753065ad4e4a0d2554c61b194757de_tn",
+      "old_price": "₫69.000",
+      "price": "₫44.850",
+      "brand": "Nike",
+      "made_in": "Viet Nam",
+      "id": 4,
+      "categoryId": 1
+    },
+    {
+      "name": "Sữa Tắm Enchanteur 900g",
+      "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lhsnhfm6tfi9a4_tn",
+      "old_price": "₫225.000",
+      "price": "₫140.000",
+      "brand": "Nike",
+      "made_in": "Viet Nam",
+      "id": 5,
+      "categoryId": 1
+    },
+    {
+      "name": "Sữa Tắm Dưỡng Sáng Da HATOMUGI Moisturizing & Washing 800ml Hasaki Sản Phẩm Chính Hãng",
+      "image": "https://down-vn.img.susercontent.com/file/sg-11134201-22110-fj3ec0hkoyjv6b_tn",
+      "old_price": "₫148.000",
+      "price": "₫81.000",
+      "brand": "Nike",
+      "made_in": "Viet Nam",
+      "id": 6,
+      "categoryId": 1
+    },
+    {
+      "name": "Sữa Tắm 500ml Dưỡng Ẩm Làm Sạch Sâu Nuôi Dưỡng Và Bôi Trơn Da",
+      "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lhsneg7q6k752c_tn",
+      "old_price": "₫41.000",
+      "price": "₫24.000",
+      "brand": "Nike",
+      "made_in": "Viet Nam",
+      "id": 7,
+      "categoryId": 1
+    },
+    {
+      "name": "Sữa tắm xông trắng truyền trắng Pink Lady 300ml dưỡng da dưỡng ẩm cho da nhạy cảm",
+      "image": "https://down-vn.img.susercontent.com/file/e1d54b5a2989586359e583721f63f207_tn",
+      "old_price": "₫35.000",
+      "price": "₫18.999",
+      "brand": "Nike",
+      "made_in": "Viet Nam",
+      "id": 8,
+      "categoryId": 1
+    },
+    {
+      "name": "Điện thoại Apple iPhone 14 Plus 128GB",
+      "image": "https://down-vn.img.susercontent.com/file/292e0925690694e78e736f9909638cc0_tn",
+      "old_price": "₫28.550.000",
+      "price": "₫27.990.000",
+      "brand": "Nikes",
+      "made_in": "Viet Nam",
+      "id": 9,
+      "categoryId": 2
+    },
+    {
+      "name": "Apple iPhone 13 Chính hãng VN/A",
+      "image": "https://down-vn.img.susercontent.com/file/13c739a62f8eff03067459c700514e2c_tn",
+      "old_price": "₫25.990.000",
+      "price": "₫16.490.000",
+      "brand": "Nikes",
+      "made_in": "Viet Nam",
+      "id": 10,
+      "categoryId": 2
+    },
+    {
+      "name": "Apple iPhone 11 Chính hãng VN/A",
+      "image": "https://down-vn.img.susercontent.com/file/2caf48af57b40a6a5695049e4a71d31f_tn",
+      "old_price": "₫17.990.000",
+      "price": "₫11.790.000",
+      "brand": "Nikesssss",
+      "made_in": "Viet Nam",
+      "id": 11,
+      "categoryId": 2
+    },
+    {
+      "name": "Điện thoại Apple iPhone 14 Plus 128GB",
+      "image": "https://down-vn.img.susercontent.com/file/1eadcd0ed95eb46578d2e22bcd9b622b_tn",
+      "old_price": "299",
+      "price": "289",
+      "brand": "Nikesssss",
+      "made_in": "Viet Nam",
+      "id": 12,
+      "categoryId": 2
+    },
+    {
+      "name": "Điện thoại Apple iPhone 14 Plus 128GB",
+      "image": "https://down-vn.img.susercontent.com/file/sg-11134201-22090-caq7zjp5yvhv74_tn",
+      "old_price": "299",
+      "price": "289",
+      "brand": "Nikesssss",
+      "made_in": "Viet Nam",
+      "id": 13,
+      "categoryId": 2
+    },
+    {
+      "name": "Điện thoại Apple iPhone 14 Plus 128GB",
+      "image": "https://down-vn.img.susercontent.com/file/4bf2b59f1b2146f33fcf48fd2a2d12d3_tn",
+      "old_price": "299",
+      "price": "289",
+      "brand": "Nikesssss",
+      "made_in": "Viet Nam",
+      "id": 14,
+      "categoryId": 2
+    },
+    {
+      "name": "Điện thoại Apple iPhone 14 Plus 128GB",
+      "image": "https://down-vn.img.susercontent.com/file/64976712596069c7aed4121b3ddd4d42_tn",
+      "old_price": "299",
+      "price": "289",
+      "brand": "Nikesssss",
+      "made_in": "Viet Nam",
+      "id": 15,
+      "categoryId": 2
+    },
+    {
+      "name": "Điện thoại Apple iPhone 14 Plus 128GB",
+      "image": "https://down-vn.img.susercontent.com/file/1c06c9ec99f884bb3cc664b04b126569_tn",
+      "old_price": "299",
+      "price": "289",
+      "brand": "Nikesssss",
+      "made_in": "Viet Nam",
+      "id": 16,
+      "categoryId": 2
+    },
+    {
+      "name": "Điện thoại Apple iPhone 14 Plus 128GB",
+      "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lh8x6wqo6o8i42_tn",
+      "old_price": "299",
+      "price": "289",
+      "brand": "Nikesssss",
+      "made_in": "hoàng anh",
+      "id": 17,
+      "categoryId": 3
+    },
+    {
+      "name": "Điện thoại Apple iPhone 14 Plus 128GB",
+      "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lhe6za21f1v68e_tn",
+      "old_price": "299",
+      "price": "289",
+      "brand": "Nikesssss",
+      "made_in": "hoàng anh",
+      "id": 18,
+      "categoryId": 3
+    },
+    {
+      "name": "Điện thoại Apple iPhone 14 Plus 128GB",
+      "image": "https://down-vn.img.susercontent.com/file/sg-11134201-22110-n9d7gbqxpikv5c_tn",
+      "old_price": "299",
+      "price": "289",
+      "brand": "Nikesssss",
+      "made_in": "hoàng anh",
+      "id": 19,
+      "categoryId": 3
+    },
+    {
+      "name": "Điện thoại Apple iPhone 14 Plus 128GB",
+      "image": "https://down-vn.img.susercontent.com/file/vn-11134201-7qukw-lerkzbdphksq3a_tn",
+      "old_price": "299",
+      "price": "289",
+      "brand": "Nikesssss",
+      "made_in": "hoàng anh",
+      "id": 20,
+      "categoryId": 3
+    },
+    {
+      "name": "Điện thoại Apple iPhone 14 Plus 128GB",
+      "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lhke5l66t96p25_tn",
+      "old_price": "299",
+      "price": "289",
+      "brand": "Nikesssss",
+      "made_in": "hoàng anh",
+      "id": 21,
+      "categoryId": 3
+    },
+    {
+      "name": "Điện thoại Apple iPhone 14 Plus 128GB",
+      "image": "https://down-vn.img.susercontent.com/file/f30fc6830194f206dbd8ad40beea0120_tn",
+      "old_price": "299",
+      "price": "289",
+      "brand": "Nikesssss",
+      "made_in": "hoàng anh",
+      "id": 22,
+      "categoryId": 3
+    },
+    {
+      "name": "Điện thoại Apple iPhone 14 Plus 128GB",
+      "image": "https://down-vn.img.susercontent.com/file/737540aa4ba634c727a7cf635ffc6ac5_tn",
+      "old_price": "299",
+      "price": "289",
+      "brand": "Nikesssss",
+      "made_in": "hoàng anh",
+      "id": 23,
+      "categoryId": 3
+    },
+    {
+      "name": "Điện thoại Apple iPhone 14 Plus 128GB",
+      "image": "https://down-vn.img.susercontent.com/file/77488de0e587dc5bc92e1a9ff910c853_tn",
+      "old_price": "299",
+      "price": "289",
+      "brand": "Nikesssss",
+      "made_in": "hoàng anh",
+      "id": 24,
+      "categoryId": 3
+    }
+  ]
+}
